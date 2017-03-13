@@ -14,5 +14,8 @@
         "quotes": ["error", "single"],
         "semi": ["error", "always"],
         "no-console": ["error"]
+    },
+    "globals": {
+        "IVIEW_VERSION": true
     }
 }
